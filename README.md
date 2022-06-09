@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=shahzeb-jadoon&custom_title=Shahzeb's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahzeb-jadoon&show_icons=true&theme=dracula" alt="shahzebjadoon" />
+
 <!--
 **shahzeb-jadoon/shahzeb-jadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
