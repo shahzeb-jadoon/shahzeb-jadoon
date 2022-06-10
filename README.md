@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=shahzeb-jadoon&custom_title=Shahzeb's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
