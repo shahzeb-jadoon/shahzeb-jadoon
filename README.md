@@ -3,7 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+MATLAB   6 mins          ██████████████████▓░░░░░░   75.21 %
+Python   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
 ```
 
 <!--END_SECTION:waka-->
