@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 May 2022 - To: 21 June 2022
+From: 23 May 2022 - To: 22 June 2022
 
 MATLAB                   ██████████████████▓░░░░░░   75.21 %
 Python                   ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
