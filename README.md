@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 30 August 2022
+From: 03 August 2022 - To: 02 September 2022
 
 JavaScript                   ████████████▓░░░░░░░░░░░░   50.09 %
 HTML                         ████████▓░░░░░░░░░░░░░░░░   34.79 %
