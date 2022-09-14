@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 10 September 2022
-
-JavaScript                   ███████████████████▓░░░░░   79.14 %
-HTML                         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
