@@ -1,21 +1,22 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:        # lets you run it manually from the Actions tab
   schedule:
-    # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"     # daily at 00:00 UTC
+
+permissions:
+  contents: write           # REQUIRED so the action can commit the updated README
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          # SHOW_TOTAL: true
-          SHOW_TIME: false
+          SHOW_TITLE: "true"
+          SHOW_TIME: "false"
           TIME_RANGE: last_30_days
-          COMMIT_MESSAGE: Updated shahzeb-jadoon/shahzeb-jadoon README.md
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
