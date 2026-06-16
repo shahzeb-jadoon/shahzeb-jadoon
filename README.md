@@ -30,7 +30,7 @@
 <!-- ============================ ABOUT ============================ -->
 ## 👋 About me
 
-I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engineering) and an **ML / Edge-AI engineer** who likes the hard part: making capable models actually *run* under real-world memory, latency, and power budgets.
+I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engineering) and an **ML / Edge-AI engineer** who likes living on the edge: making capable models actually *run* under real-world memory, latency, and power budgets.
 
 - 🧠 **Research focus:** neuromorphic & edge AI — spiking neural networks, RWKV/linear-attention, model quantization & sparsity, on-device deployment (BrainChip **Akida**, NVIDIA **Jetson**).
 - 🚗 **Building:** a **Vision-RWKV autonomous-driving** stack (CARLA → edge) for my MS capstone, and a **production LLM multi-agent platform** for robot-robot interaction research.
