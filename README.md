@@ -145,6 +145,17 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 ## ⏱️ Coding activity (last 30 days)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 May 2026 - To: 15 June 2026
+
+Markdown                           ███████████▒░░░░░░░░░░░░░   45.23 %
+JSON                               █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Python                             ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Text                               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Other                              █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- ============================ CONTRIBUTION SNAKE ============================ -->
