@@ -122,13 +122,30 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-jadoon&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=shahzeb-jadoon&hide_border=true&theme=tokyonight" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahzeb-jadoon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+<!--
+  Trophies removed on purpose: the public github-profile-trophy.vercel.app instance
+  frequently returns "Invalid upstream response (402)" because its shared GitHub API
+  token is rate-limited. If you want trophies back, self-host the service with your own
+  GITHUB token (https://github.com/ryo-ma/github-profile-trophy#deploy-to-vercel-) and
+  point the URL at YOUR-deployment.vercel.app.
+-->
 
 </div>
+
+<!-- ============================ WAKATIME (optional) ============================ -->
+<!--
+  Populated by .github/workflows/wakatime.yml. The action replaces everything
+  between the two markers below. It stays EMPTY until: (1) you have a WakaTime
+  account with the editor plugin recording time, (2) a WAKATIME_API_KEY repo
+  secret is set, and (3) workflow write permission is enabled. Remove this whole
+  block if you don't want it.
+-->
+## ⏱️ Coding activity (last 30 days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ============================ CONTRIBUTION SNAKE ============================ -->
 <!-- Powered by .github/workflows/snake.yml — see SETUP_INSTRUCTIONS.md -->
