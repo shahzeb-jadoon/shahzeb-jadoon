@@ -26,10 +26,12 @@ jobs:
 
       # Publish to the 'output' branch with plain git (no third-party publish
       # action) so there's no Node.js-20 deprecation to worry about.
+      # NOTE: Platane/snk runs in Docker as root, so dist/ is root-owned; take
+      # ownership before we write .git/ into it, or git init fails with EACCES.
       - name: Publish snake to 'output' branch
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           cd dist
-          touch .nojekyll
           git init -q
           git checkout -b output
           git add -A
