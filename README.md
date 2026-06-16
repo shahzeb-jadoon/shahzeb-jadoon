@@ -134,30 +134,6 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 
 </div>
 
-<!-- ============================ WAKATIME (optional) ============================ -->
-<!--
-  Populated by .github/workflows/wakatime.yml. The action replaces everything
-  between the two markers below. It stays EMPTY until: (1) you have a WakaTime
-  account with the editor plugin recording time, (2) a WAKATIME_API_KEY repo
-  secret is set, and (3) workflow write permission is enabled. Remove this whole
-  block if you don't want it.
--->
-## ⏱️ Coding activity (last 30 days)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 May 2026 - To: 15 June 2026
-
-Markdown                           ███████████▒░░░░░░░░░░░░░   45.23 %
-JSON                               █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Python                             ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-Text                               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Other                              █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-```
-
-<!--END_SECTION:waka-->
-
 <!-- ============================ CONTRIBUTION SNAKE ============================ -->
 <!-- Powered by .github/workflows/snake.yml — see SETUP_INSTRUCTIONS.md -->
 <div align="center">
