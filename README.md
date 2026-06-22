@@ -30,12 +30,12 @@
 <!-- ============================ ABOUT ============================ -->
 ## 👋 About me
 
-I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT** (Kate Gleason College of Engineering) who likes the hard part: making capable models actually *run* under real-world memory, latency, and power budgets.
+I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT** (Kate Gleason College of Engineering) who likes a good challenge: making capable models actually *run* under real-world memory, latency, and power budgets.
 
-- 🧠 **Research focus:** neuromorphic & edge AI — spiking neural networks, RWKV/linear-attention, model quantization & sparsity, on-device deployment (BrainChip **Akida**, NVIDIA **Jetson**).
+- 🧠 **Research focus:** neuromorphic & edge AI - spiking neural networks, RWKV/linear-attention, model quantization & sparsity, on-device deployment (BrainChip **Akida**, NVIDIA **Jetson**).
 - 🚗 **Building:** a **Vision-RWKV autonomous-driving** stack (CARLA → edge) for my MS capstone, and a **production LLM multi-agent platform** for robot-robot interaction research.
 - 🔬 **NSF AWARE-AI NRT Trainee** · ex-**Machine Learning Engineer Intern @ BrainChip** (neuromorphic semantic segmentation).
-- 🛠️ I also self-host my own ML infrastructure — a multi-node WSL2 + Tailscale homelab, an n8n+Gemini agentic assistant, and a Nextcloud private cloud.
+- 🛠️ I also self-host my own ML infrastructure - a multi-node WSL2 + Tailscale homelab, an n8n+Gemini agentic assistant, and a Nextcloud private cloud.
 - ⚡ Interests across the stack: **LLM orchestration/agents, quantum ML, robotics (ROS2), embedded/real-time systems, and HPC/CUDA.**
 
 <!-- ============================ FEATURED PROJECTS ============================ -->
@@ -43,10 +43,10 @@ I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT**
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🧠🚗 **[neuromorphic-vision-rwkv](https://github.com/shahzeb-jadoon/neuromorphic-vision-rwkv)** | MS capstone — an **RWKV linear-attention** autonomous-driving model trained on a 3.6 TB CARLA corpus; **6.88 ms** median inference, 13.4 M params, targeting Akida/Jetson edge deployment. | `PyTorch` `CARLA` `RWKV` `Edge AI` |
-| 🤖💬 **[rri_orchestrator](https://github.com/shahzeb-jadoon/rri_orchestrator)** | Production-deployed **LLM multi-agent platform** for robot-robot interaction research — async FastAPI + NiceGUI, PostgreSQL, LiteLLM (GPT-4o/Gemini/Claude), RBAC, batch automation, self-hosted via Cloudflare Tunnel. | `FastAPI` `LiteLLM` `PostgreSQL` `Docker` |
-| ⚡🖥️ **[VGG16_Optimization](https://github.com/shahzeb-jadoon/VGG16_Optimization)** | CMPE 755 final — custom **CUDA C++** kernels for VGG-16 inference (shared-memory tiling, memory coalescing, cuBLAS); Nsight Compute roofline/**CGMA** analysis pinned the FC layers memory-bound (~**41.5 GFLOPS** @ batch=16). 6-person team. | `CUDA` `cuBLAS` `Nsight Compute` `C++` |
-| ⚛️🎮 **[Quantum_Policy_Gradient_for_CartPole](https://github.com/shahzeb-jadoon/Quantum_Policy_Gradient_for_CartPole)** | A 4-qubit **variational quantum circuit** RL agent benchmarked head-to-head against a parameter-matched classical net — statistical parity at **18% fewer params**, validated with the hardware-compatible parameter-shift rule. | `PennyLane` `PyTorch` `Gymnasium` |
+| 🧠🚗 **[neuromorphic-vision-rwkv](https://github.com/shahzeb-jadoon/neuromorphic-vision-rwkv)** | MS capstone - an **RWKV linear-attention** autonomous-driving model trained on a 3.6 TB CARLA corpus; **6.88 ms** median inference, 13.4 M params, targeting Akida/Jetson edge deployment. | `PyTorch` `CARLA` `RWKV` `Edge AI` |
+| 🤖💬 **[rri_orchestrator](https://github.com/shahzeb-jadoon/rri_orchestrator)** | Production-deployed **LLM multi-agent platform** for robot-robot interaction research - async FastAPI + NiceGUI, PostgreSQL, LiteLLM (GPT-4o/Gemini/Claude), RBAC, batch automation, self-hosted via Cloudflare Tunnel. | `FastAPI` `LiteLLM` `PostgreSQL` `Docker` |
+| ⚡🖥️ **[VGG16_Optimization](https://github.com/shahzeb-jadoon/VGG16_Optimization)** | CMPE 755 final - custom **CUDA C++** kernels for VGG-16 inference (shared-memory tiling, memory coalescing, cuBLAS); Nsight Compute roofline/**CGMA** analysis pinned the FC layers memory-bound (~**41.5 GFLOPS** @ batch=16). 6-person team. | `CUDA` `cuBLAS` `Nsight Compute` `C++` |
+| ⚛️🎮 **[Quantum_Policy_Gradient_for_CartPole](https://github.com/shahzeb-jadoon/Quantum_Policy_Gradient_for_CartPole)** | A 4-qubit **variational quantum circuit** RL agent benchmarked head-to-head against a parameter-matched classical net - statistical parity at **18% fewer params**, validated with the hardware-compatible parameter-shift rule. | `PennyLane` `PyTorch` `Gymnasium` |
 
 > 💡 More context on my work, research, and experience: **[linkedin.com/in/shahzebkjadoon](https://www.linkedin.com/in/shahzebkjadoon)**
 
@@ -137,7 +137,7 @@ I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT**
 </div>
 
 <!-- ============================ CONTRIBUTION SNAKE ============================ -->
-<!-- Powered by .github/workflows/snake.yml — see SETUP_INSTRUCTIONS.md -->
+<!-- Powered by .github/workflows/snake.yml - see SETUP_INSTRUCTIONS.md -->
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/shahzeb-jadoon/shahzeb-jadoon/output/snake.svg" alt="contribution snake animation" />
