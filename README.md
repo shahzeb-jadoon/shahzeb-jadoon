@@ -147,6 +147,6 @@ I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT**
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-  <sub>⚡ <em>"Train dense, deploy sparse."</em> — currently teaching big models to live on small chips.</sub>
+  <sub>⚡ <em>"Train dense, deploy sparse."</em> - currently teaching big models to live on small chips.</sub>
 
 </div>
