@@ -30,7 +30,7 @@
 <!-- ============================ ABOUT ============================ -->
 ## 👋 About me
 
-I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engineering) and an **ML / Edge-AI engineer** who likes living on the edge: making capable models actually *run* under real-world memory, latency, and power budgets.
+I'm an **ML / Edge-AI engineer** with an **MS in Computer Engineering from RIT** (Kate Gleason College of Engineering) who likes the hard part: making capable models actually *run* under real-world memory, latency, and power budgets.
 
 - 🧠 **Research focus:** neuromorphic & edge AI — spiking neural networks, RWKV/linear-attention, model quantization & sparsity, on-device deployment (BrainChip **Akida**, NVIDIA **Jetson**).
 - 🚗 **Building:** a **Vision-RWKV autonomous-driving** stack (CARLA → edge) for my MS capstone, and a **production LLM multi-agent platform** for robot-robot interaction research.
@@ -45,6 +45,7 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 |---|---|---|
 | 🧠🚗 **[neuromorphic-vision-rwkv](https://github.com/shahzeb-jadoon/neuromorphic-vision-rwkv)** | MS capstone — an **RWKV linear-attention** autonomous-driving model trained on a 3.6 TB CARLA corpus; **6.88 ms** median inference, 13.4 M params, targeting Akida/Jetson edge deployment. | `PyTorch` `CARLA` `RWKV` `Edge AI` |
 | 🤖💬 **[rri_orchestrator](https://github.com/shahzeb-jadoon/rri_orchestrator)** | Production-deployed **LLM multi-agent platform** for robot-robot interaction research — async FastAPI + NiceGUI, PostgreSQL, LiteLLM (GPT-4o/Gemini/Claude), RBAC, batch automation, self-hosted via Cloudflare Tunnel. | `FastAPI` `LiteLLM` `PostgreSQL` `Docker` |
+| ⚡🖥️ **[VGG16_Optimization](https://github.com/shahzeb-jadoon/VGG16_Optimization)** | CMPE 755 final — custom **CUDA C++** kernels for VGG-16 inference (shared-memory tiling, memory coalescing, cuBLAS); Nsight Compute roofline/**CGMA** analysis pinned the FC layers memory-bound (~**41.5 GFLOPS** @ batch=16). 6-person team. | `CUDA` `cuBLAS` `Nsight Compute` `C++` |
 | ⚛️🎮 **[Quantum_Policy_Gradient_for_CartPole](https://github.com/shahzeb-jadoon/Quantum_Policy_Gradient_for_CartPole)** | A 4-qubit **variational quantum circuit** RL agent benchmarked head-to-head against a parameter-matched classical net — statistical parity at **18% fewer params**, validated with the hardware-compatible parameter-shift rule. | `PennyLane` `PyTorch` `Gymnasium` |
 
 > 💡 More context on my work, research, and experience: **[linkedin.com/in/shahzebkjadoon](https://www.linkedin.com/in/shahzebkjadoon)**
@@ -76,7 +77,6 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 
 ![BrainChip Akida](https://img.shields.io/badge/BrainChip%20Akida-EC1C24?style=flat-square)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Quantization](https://img.shields.io/badge/QAT%20%2F%20INT8-555555?style=flat-square)
 ![SNN](https://img.shields.io/badge/Spiking%20Neural%20Nets-8B5CF6?style=flat-square)
 ![RWKV](https://img.shields.io/badge/RWKV%20%2F%20Linear%20Attention-1F6FEB?style=flat-square)
@@ -86,6 +86,8 @@ I'm a **Computer Engineering MS candidate at RIT** (Kate Gleason College of Engi
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-1F6FEB?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain-style Agents](https://img.shields.io/badge/Multi--Agent%20Orchestration-9D7CD8?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-555555?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
